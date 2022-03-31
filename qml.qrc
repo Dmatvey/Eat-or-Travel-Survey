@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>travelword.jfif</file>
+        <file>eatword.jfif</file>
+        <file>eat.jfif</file>
+        <file>travel.jfif</file>
+    </qresource>
+</RCC>
